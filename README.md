@@ -1,2 +1,2 @@
-# Sekolah-Altiada
+# Sekolah Altiada
 Web ini dibuat untuk memenuhi tugas mata kuliah pemodelan simulasi
